@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 1,
+    "title": "Web Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "description": "Join our development team as a web developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-01",
+    "applyLink": "https://forms.google.com/voc-opportunity-001",
+    "status": "Closed"
+  },
+  {
+    "id": 2,
+    "title": "Python Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Remote",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Python",
+      "Django",
+      "REST API",
+      "Git"
+    ],
+    "description": "Join our engineering team as a python developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-02",
+    "applyLink": "https://forms.google.com/voc-opportunity-002",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "title": "Frontend Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Indore",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Join our development team as a frontend developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-03",
+    "applyLink": "https://forms.google.com/voc-opportunity-003",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "title": "UI/UX Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Indore",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research"
+    ],
+    "description": "Join our design team as a UI/UX design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-04",
+    "applyLink": "https://forms.google.com/voc-opportunity-004",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Developer",
+    "type": "Job",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "description": "Join our development team as a full stack developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-05",
+    "applyLink": "https://forms.google.com/voc-opportunity-005",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "title": "Digital Marketing Intern",
+    "type": "Internship",
+    "department": "Marketing",
+    "location": "Bhopal",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "SEO",
+      "Social Media",
+      "Analytics"
+    ],
+    "description": "Join our marketing team as a digital marketing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-06",
+    "applyLink": "https://forms.google.com/voc-opportunity-006",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "title": "Java Developer Intern",
+    "type": "Internship",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Java",
+      "OOP",
+      "SQL",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Java developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-07",
+    "applyLink": "https://forms.google.com/voc-opportunity-007",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "title": "Backend Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST API"
+    ],
+    "description": "Join our engineering team as a backend developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-08",
+    "applyLink": "https://forms.google.com/voc-opportunity-008",
+    "status": "Closed"
+  },
+  {
+    "id": 9,
+    "title": "Content Writing Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Pune",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Content Writing",
+      "SEO",
+      "Research"
+    ],
+    "description": "Join our content team as a content writing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-09",
+    "applyLink": "https://forms.google.com/voc-opportunity-009",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "title": "Data Science Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Pune",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "description": "Join our data science team as a data science intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-10",
+    "applyLink": "https://forms.google.com/voc-opportunity-010",
+    "status": "Active"
+  },
+  {
+    "id": 11,
+    "title": "Graphic Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Remote",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Figma",
+      "Photoshop",
+      "Illustrator",
+      "Canva"
+    ],
+    "description": "Join our design team as a graphic design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-11",
+    "applyLink": "https://forms.google.com/voc-opportunity-011",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "title": "HR Intern",
+    "type": "Internship",
+    "department": "Human Resources",
+    "location": "Remote",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Recruitment",
+      "Communication",
+      "MS Excel"
+    ],
+    "description": "Join our human resources team as an HR intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-12",
+    "applyLink": "https://forms.google.com/voc-opportunity-012",
+    "status": "Active"
+  },
+  {
+    "id": 13,
+    "title": "Android Developer Intern",
+    "type": "Internship",
+    "department": "Mobile Development",
+    "location": "Indore",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "Firebase"
+    ],
+    "description": "Join our mobile development team as an Android developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-13",
+    "applyLink": "https://forms.google.com/voc-opportunity-013",
+    "status": "Active"
+  },
+  {
+    "id": 14,
+    "title": "DevOps Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Indore",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a DevOps engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-14",
+    "applyLink": "https://forms.google.com/voc-opportunity-014",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "title": "React Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "description": "Join our development team as a React developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-15",
+    "applyLink": "https://forms.google.com/voc-opportunity-015",
+    "status": "Closed"
+  },
+  {
+    "id": 16,
+    "title": "Machine Learning Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Bhopal",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "description": "Join our data science team as a machine learning intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-16",
+    "applyLink": "https://forms.google.com/voc-opportunity-016",
+    "status": "Active"
+  },
+  {
+    "id": 17,
+    "title": "Technical Content Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Delhi",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Technical Writing",
+      "Research",
+      "SEO"
+    ],
+    "description": "Join our content team as a technical content intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-17",
+    "applyLink": "https://forms.google.com/voc-opportunity-017",
+    "status": "Active"
+  },
+  {
+    "id": 18,
+    "title": "Software Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "APIs"
+    ],
+    "description": "Join our engineering team as a software engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-18",
+    "applyLink": "https://forms.google.com/voc-opportunity-018",
+    "status": "Active"
+  },
+  {
+    "id": 19,
+    "title": "Cloud Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Pune",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a cloud engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-19",
+    "applyLink": "https://forms.google.com/voc-opportunity-019",
+    "status": "Active"
+  },
+  {
+    "id": 20,
+    "title": "Cybersecurity Intern",
+    "type": "Internship",
+    "department": "Security",
+    "location": "Pune",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Python",
+      "Cybersecurity"
+    ],
+    "description": "Join our security team as a cybersecurity intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-20",
+    "applyLink": "https://forms.google.com/voc-opportunity-020",
+    "status": "Active"
+  },
+  {
+    "id": 21,
+    "title": "Web Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Remote",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "description": "Join our development team as a web developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-21",
+    "applyLink": "https://forms.google.com/voc-opportunity-021",
+    "status": "Active"
+  },
+  {
+    "id": 22,
+    "title": "Python Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Python",
+      "Django",
+      "REST API",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Python developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-22",
+    "applyLink": "https://forms.google.com/voc-opportunity-022",
+    "status": "Closed"
+  },
+  {
+    "id": 23,
+    "title": "Frontend Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Indore",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Join our development team as a frontend developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-23",
+    "applyLink": "https://forms.google.com/voc-opportunity-023",
+    "status": "Active"
+  },
+  {
+    "id": 24,
+    "title": "UI/UX Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Indore",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research"
+    ],
+    "description": "Join our design team as a UI/UX design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-24",
+    "applyLink": "https://forms.google.com/voc-opportunity-024",
+    "status": "Active"
+  },
+  {
+    "id": 25,
+    "title": "Full Stack Developer",
+    "type": "Job",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "description": "Join our development team as a full stack developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-25",
+    "applyLink": "https://forms.google.com/voc-opportunity-025",
+    "status": "Active"
+  },
+  {
+    "id": 26,
+    "title": "Digital Marketing Intern",
+    "type": "Internship",
+    "department": "Marketing",
+    "location": "Bhopal",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "SEO",
+      "Social Media",
+      "Analytics"
+    ],
+    "description": "Join our marketing team as a digital marketing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-26",
+    "applyLink": "https://forms.google.com/voc-opportunity-026",
+    "status": "Active"
+  },
+  {
+    "id": 27,
+    "title": "Java Developer Intern",
+    "type": "Internship",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Java",
+      "OOP",
+      "SQL",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Java developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-27",
+    "applyLink": "https://forms.google.com/voc-opportunity-027",
+    "status": "Active"
+  },
+  {
+    "id": 28,
+    "title": "Backend Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST API"
+    ],
+    "description": "Join our engineering team as a backend developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-28",
+    "applyLink": "https://forms.google.com/voc-opportunity-028",
+    "status": "Active"
+  },
+  {
+    "id": 29,
+    "title": "Content Writing Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Pune",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Content Writing",
+      "SEO",
+      "Research"
+    ],
+    "description": "Join our content team as a content writing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-29",
+    "applyLink": "https://forms.google.com/voc-opportunity-029",
+    "status": "Closed"
+  },
+  {
+    "id": 30,
+    "title": "Data Science Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Pune",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "description": "Join our data science team as a data science intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-30",
+    "applyLink": "https://forms.google.com/voc-opportunity-030",
+    "status": "Active"
+  },
+  {
+    "id": 31,
+    "title": "Graphic Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Figma",
+      "Photoshop",
+      "Illustrator",
+      "Canva"
+    ],
+    "description": "Join our design team as a graphic design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-01",
+    "applyLink": "https://forms.google.com/voc-opportunity-031",
+    "status": "Active"
+  },
+  {
+    "id": 32,
+    "title": "HR Intern",
+    "type": "Internship",
+    "department": "Human Resources",
+    "location": "Remote",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Recruitment",
+      "Communication",
+      "MS Excel"
+    ],
+    "description": "Join our human resources team as an HR intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-02",
+    "applyLink": "https://forms.google.com/voc-opportunity-032",
+    "status": "Active"
+  },
+  {
+    "id": 33,
+    "title": "Android Developer Intern",
+    "type": "Internship",
+    "department": "Mobile Development",
+    "location": "Indore",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "Firebase"
+    ],
+    "description": "Join our mobile development team as an Android developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-03",
+    "applyLink": "https://forms.google.com/voc-opportunity-033",
+    "status": "Active"
+  },
+  {
+    "id": 34,
+    "title": "DevOps Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Indore",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a DevOps engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-04",
+    "applyLink": "https://forms.google.com/voc-opportunity-034",
+    "status": "Active"
+  },
+  {
+    "id": 35,
+    "title": "React Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "description": "Join our development team as a React developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-05",
+    "applyLink": "https://forms.google.com/voc-opportunity-035",
+    "status": "Active"
+  },
+  {
+    "id": 36,
+    "title": "Machine Learning Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Bhopal",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "description": "Join our data science team as a machine learning intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-06",
+    "applyLink": "https://forms.google.com/voc-opportunity-036",
+    "status": "Closed"
+  },
+  {
+    "id": 37,
+    "title": "Technical Content Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Delhi",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Technical Writing",
+      "Research",
+      "SEO"
+    ],
+    "description": "Join our content team as a technical content intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-07",
+    "applyLink": "https://forms.google.com/voc-opportunity-037",
+    "status": "Active"
+  },
+  {
+    "id": 38,
+    "title": "Software Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "APIs"
+    ],
+    "description": "Join our engineering team as a software engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-08",
+    "applyLink": "https://forms.google.com/voc-opportunity-038",
+    "status": "Active"
+  },
+  {
+    "id": 39,
+    "title": "Cloud Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Pune",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a cloud engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-09",
+    "applyLink": "https://forms.google.com/voc-opportunity-039",
+    "status": "Active"
+  },
+  {
+    "id": 40,
+    "title": "Cybersecurity Intern",
+    "type": "Internship",
+    "department": "Security",
+    "location": "Pune",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Python",
+      "Cybersecurity"
+    ],
+    "description": "Join our security team as a cybersecurity intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-10",
+    "applyLink": "https://forms.google.com/voc-opportunity-040",
+    "status": "Active"
+  },
+  {
+    "id": 41,
+    "title": "Web Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Remote",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "description": "Join our development team as a web developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-11",
+    "applyLink": "https://forms.google.com/voc-opportunity-041",
+    "status": "Active"
+  },
+  {
+    "id": 42,
+    "title": "Python Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Remote",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Python",
+      "Django",
+      "REST API",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Python developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-12",
+    "applyLink": "https://forms.google.com/voc-opportunity-042",
+    "status": "Active"
+  },
+  {
+    "id": 43,
+    "title": "Frontend Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Indore",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Join our development team as a frontend developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-13",
+    "applyLink": "https://forms.google.com/voc-opportunity-043",
+    "status": "Closed"
+  },
+  {
+    "id": 44,
+    "title": "UI/UX Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Indore",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research"
+    ],
+    "description": "Join our design team as a UI/UX design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-14",
+    "applyLink": "https://forms.google.com/voc-opportunity-044",
+    "status": "Active"
+  },
+  {
+    "id": 45,
+    "title": "Full Stack Developer",
+    "type": "Job",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "description": "Join our development team as a full stack developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-15",
+    "applyLink": "https://forms.google.com/voc-opportunity-045",
+    "status": "Active"
+  },
+  {
+    "id": 46,
+    "title": "Digital Marketing Intern",
+    "type": "Internship",
+    "department": "Marketing",
+    "location": "Bhopal",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "SEO",
+      "Social Media",
+      "Analytics"
+    ],
+    "description": "Join our marketing team as a digital marketing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-16",
+    "applyLink": "https://forms.google.com/voc-opportunity-046",
+    "status": "Active"
+  },
+  {
+    "id": 47,
+    "title": "Java Developer Intern",
+    "type": "Internship",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Java",
+      "OOP",
+      "SQL",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Java developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-17",
+    "applyLink": "https://forms.google.com/voc-opportunity-047",
+    "status": "Active"
+  },
+  {
+    "id": 48,
+    "title": "Backend Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST API"
+    ],
+    "description": "Join our engineering team as a backend developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-18",
+    "applyLink": "https://forms.google.com/voc-opportunity-048",
+    "status": "Active"
+  },
+  {
+    "id": 49,
+    "title": "Content Writing Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Pune",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Content Writing",
+      "SEO",
+      "Research"
+    ],
+    "description": "Join our content team as a content writing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-19",
+    "applyLink": "https://forms.google.com/voc-opportunity-049",
+    "status": "Active"
+  },
+  {
+    "id": 50,
+    "title": "Data Science Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Pune",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "description": "Join our data science team as a data science intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-20",
+    "applyLink": "https://forms.google.com/voc-opportunity-050",
+    "status": "Closed"
+  },
+  {
+    "id": 51,
+    "title": "Graphic Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Remote",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Figma",
+      "Photoshop",
+      "Illustrator",
+      "Canva"
+    ],
+    "description": "Join our design team as a graphic design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-21",
+    "applyLink": "https://forms.google.com/voc-opportunity-051",
+    "status": "Active"
+  },
+  {
+    "id": 52,
+    "title": "HR Intern",
+    "type": "Internship",
+    "department": "Human Resources",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Recruitment",
+      "Communication",
+      "MS Excel"
+    ],
+    "description": "Join our human resources team as an HR intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-22",
+    "applyLink": "https://forms.google.com/voc-opportunity-052",
+    "status": "Active"
+  },
+  {
+    "id": 53,
+    "title": "Android Developer Intern",
+    "type": "Internship",
+    "department": "Mobile Development",
+    "location": "Indore",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "Firebase"
+    ],
+    "description": "Join our mobile development team as an Android developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-23",
+    "applyLink": "https://forms.google.com/voc-opportunity-053",
+    "status": "Active"
+  },
+  {
+    "id": 54,
+    "title": "DevOps Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Indore",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a DevOps engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-24",
+    "applyLink": "https://forms.google.com/voc-opportunity-054",
+    "status": "Active"
+  },
+  {
+    "id": 55,
+    "title": "React Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "description": "Join our development team as a React developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-25",
+    "applyLink": "https://forms.google.com/voc-opportunity-055",
+    "status": "Active"
+  },
+  {
+    "id": 56,
+    "title": "Machine Learning Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Bhopal",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "description": "Join our data science team as a machine learning intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-26",
+    "applyLink": "https://forms.google.com/voc-opportunity-056",
+    "status": "Active"
+  },
+  {
+    "id": 57,
+    "title": "Technical Content Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Delhi",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Technical Writing",
+      "Research",
+      "SEO"
+    ],
+    "description": "Join our content team as a technical content intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-27",
+    "applyLink": "https://forms.google.com/voc-opportunity-057",
+    "status": "Closed"
+  },
+  {
+    "id": 58,
+    "title": "Software Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "APIs"
+    ],
+    "description": "Join our engineering team as a software engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-28",
+    "applyLink": "https://forms.google.com/voc-opportunity-058",
+    "status": "Active"
+  },
+  {
+    "id": 59,
+    "title": "Cloud Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Pune",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a cloud engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-29",
+    "applyLink": "https://forms.google.com/voc-opportunity-059",
+    "status": "Active"
+  },
+  {
+    "id": 60,
+    "title": "Cybersecurity Intern",
+    "type": "Internship",
+    "department": "Security",
+    "location": "Pune",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Python",
+      "Cybersecurity"
+    ],
+    "description": "Join our security team as a cybersecurity intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-30",
+    "applyLink": "https://forms.google.com/voc-opportunity-060",
+    "status": "Active"
+  },
+  {
+    "id": 61,
+    "title": "Web Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "description": "Join our development team as a web developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-10-31",
+    "applyLink": "https://forms.google.com/voc-opportunity-061",
+    "status": "Active"
+  },
+  {
+    "id": 62,
+    "title": "Python Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Remote",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Python",
+      "Django",
+      "REST API",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Python developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-01",
+    "applyLink": "https://forms.google.com/voc-opportunity-062",
+    "status": "Active"
+  },
+  {
+    "id": 63,
+    "title": "Frontend Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Indore",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Join our development team as a frontend developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-02",
+    "applyLink": "https://forms.google.com/voc-opportunity-063",
+    "status": "Active"
+  },
+  {
+    "id": 64,
+    "title": "UI/UX Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Indore",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research"
+    ],
+    "description": "Join our design team as a UI/UX design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-03",
+    "applyLink": "https://forms.google.com/voc-opportunity-064",
+    "status": "Closed"
+  },
+  {
+    "id": 65,
+    "title": "Full Stack Developer",
+    "type": "Job",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "description": "Join our development team as a full stack developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-04",
+    "applyLink": "https://forms.google.com/voc-opportunity-065",
+    "status": "Active"
+  },
+  {
+    "id": 66,
+    "title": "Digital Marketing Intern",
+    "type": "Internship",
+    "department": "Marketing",
+    "location": "Bhopal",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "SEO",
+      "Social Media",
+      "Analytics"
+    ],
+    "description": "Join our marketing team as a digital marketing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-05",
+    "applyLink": "https://forms.google.com/voc-opportunity-066",
+    "status": "Active"
+  },
+  {
+    "id": 67,
+    "title": "Java Developer Intern",
+    "type": "Internship",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Java",
+      "OOP",
+      "SQL",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Java developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-06",
+    "applyLink": "https://forms.google.com/voc-opportunity-067",
+    "status": "Active"
+  },
+  {
+    "id": 68,
+    "title": "Backend Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST API"
+    ],
+    "description": "Join our engineering team as a backend developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-07",
+    "applyLink": "https://forms.google.com/voc-opportunity-068",
+    "status": "Active"
+  },
+  {
+    "id": 69,
+    "title": "Content Writing Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Pune",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Content Writing",
+      "SEO",
+      "Research"
+    ],
+    "description": "Join our content team as a content writing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-08",
+    "applyLink": "https://forms.google.com/voc-opportunity-069",
+    "status": "Active"
+  },
+  {
+    "id": 70,
+    "title": "Data Science Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Pune",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "description": "Join our data science team as a data science intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-09",
+    "applyLink": "https://forms.google.com/voc-opportunity-070",
+    "status": "Active"
+  },
+  {
+    "id": 71,
+    "title": "Graphic Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Remote",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Figma",
+      "Photoshop",
+      "Illustrator",
+      "Canva"
+    ],
+    "description": "Join our design team as a graphic design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-10",
+    "applyLink": "https://forms.google.com/voc-opportunity-071",
+    "status": "Closed"
+  },
+  {
+    "id": 72,
+    "title": "HR Intern",
+    "type": "Internship",
+    "department": "Human Resources",
+    "location": "Remote",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Recruitment",
+      "Communication",
+      "MS Excel"
+    ],
+    "description": "Join our human resources team as an HR intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-11",
+    "applyLink": "https://forms.google.com/voc-opportunity-072",
+    "status": "Active"
+  },
+  {
+    "id": 73,
+    "title": "Android Developer Intern",
+    "type": "Internship",
+    "department": "Mobile Development",
+    "location": "Indore",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "Firebase"
+    ],
+    "description": "Join our mobile development team as an Android developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-12",
+    "applyLink": "https://forms.google.com/voc-opportunity-073",
+    "status": "Active"
+  },
+  {
+    "id": 74,
+    "title": "DevOps Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Indore",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a DevOps engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-13",
+    "applyLink": "https://forms.google.com/voc-opportunity-074",
+    "status": "Active"
+  },
+  {
+    "id": 75,
+    "title": "React Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "description": "Join our development team as a React developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-11-14",
+    "applyLink": "https://forms.google.com/voc-opportunity-075",
+    "status": "Active"
+  },
+  {
+    "id": 76,
+    "title": "Machine Learning Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Bhopal",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "description": "Join our data science team as a machine learning intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-01",
+    "applyLink": "https://forms.google.com/voc-opportunity-076",
+    "status": "Active"
+  },
+  {
+    "id": 77,
+    "title": "Technical Content Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Delhi",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Technical Writing",
+      "Research",
+      "SEO"
+    ],
+    "description": "Join our content team as a technical content intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-02",
+    "applyLink": "https://forms.google.com/voc-opportunity-077",
+    "status": "Active"
+  },
+  {
+    "id": 78,
+    "title": "Software Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "APIs"
+    ],
+    "description": "Join our engineering team as a software engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-03",
+    "applyLink": "https://forms.google.com/voc-opportunity-078",
+    "status": "Closed"
+  },
+  {
+    "id": 79,
+    "title": "Cloud Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Pune",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a cloud engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-04",
+    "applyLink": "https://forms.google.com/voc-opportunity-079",
+    "status": "Active"
+  },
+  {
+    "id": 80,
+    "title": "Cybersecurity Intern",
+    "type": "Internship",
+    "department": "Security",
+    "location": "Pune",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Python",
+      "Cybersecurity"
+    ],
+    "description": "Join our security team as a cybersecurity intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-05",
+    "applyLink": "https://forms.google.com/voc-opportunity-080",
+    "status": "Active"
+  },
+  {
+    "id": 81,
+    "title": "Web Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Remote",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "description": "Join our development team as a web developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-06",
+    "applyLink": "https://forms.google.com/voc-opportunity-081",
+    "status": "Active"
+  },
+  {
+    "id": 82,
+    "title": "Python Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Python",
+      "Django",
+      "REST API",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Python developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-07",
+    "applyLink": "https://forms.google.com/voc-opportunity-082",
+    "status": "Active"
+  },
+  {
+    "id": 83,
+    "title": "Frontend Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Indore",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "description": "Join our development team as a frontend developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-08",
+    "applyLink": "https://forms.google.com/voc-opportunity-083",
+    "status": "Active"
+  },
+  {
+    "id": 84,
+    "title": "UI/UX Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Indore",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research"
+    ],
+    "description": "Join our design team as a UI/UX design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-09",
+    "applyLink": "https://forms.google.com/voc-opportunity-084",
+    "status": "Active"
+  },
+  {
+    "id": 85,
+    "title": "Full Stack Developer",
+    "type": "Job",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "description": "Join our development team as a full stack developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-10",
+    "applyLink": "https://forms.google.com/voc-opportunity-085",
+    "status": "Closed"
+  },
+  {
+    "id": 86,
+    "title": "Digital Marketing Intern",
+    "type": "Internship",
+    "department": "Marketing",
+    "location": "Bhopal",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "SEO",
+      "Social Media",
+      "Analytics"
+    ],
+    "description": "Join our marketing team as a digital marketing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-11",
+    "applyLink": "https://forms.google.com/voc-opportunity-086",
+    "status": "Active"
+  },
+  {
+    "id": 87,
+    "title": "Java Developer Intern",
+    "type": "Internship",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Java",
+      "OOP",
+      "SQL",
+      "Git"
+    ],
+    "description": "Join our engineering team as a Java developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-12",
+    "applyLink": "https://forms.google.com/voc-opportunity-087",
+    "status": "Active"
+  },
+  {
+    "id": 88,
+    "title": "Backend Developer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST API"
+    ],
+    "description": "Join our engineering team as a backend developer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-13",
+    "applyLink": "https://forms.google.com/voc-opportunity-088",
+    "status": "Active"
+  },
+  {
+    "id": 89,
+    "title": "Content Writing Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Pune",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "Content Writing",
+      "SEO",
+      "Research"
+    ],
+    "description": "Join our content team as a content writing intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-14",
+    "applyLink": "https://forms.google.com/voc-opportunity-089",
+    "status": "Active"
+  },
+  {
+    "id": 90,
+    "title": "Data Science Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Pune",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Machine Learning"
+    ],
+    "description": "Join our data science team as a data science intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-15",
+    "applyLink": "https://forms.google.com/voc-opportunity-090",
+    "status": "Active"
+  },
+  {
+    "id": 91,
+    "title": "Graphic Design Intern",
+    "type": "Internship",
+    "department": "Design",
+    "location": "Remote",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Figma",
+      "Photoshop",
+      "Illustrator",
+      "Canva"
+    ],
+    "description": "Join our design team as a graphic design intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-16",
+    "applyLink": "https://forms.google.com/voc-opportunity-091",
+    "status": "Active"
+  },
+  {
+    "id": 92,
+    "title": "HR Intern",
+    "type": "Internship",
+    "department": "Human Resources",
+    "location": "Remote",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Recruitment",
+      "Communication",
+      "MS Excel"
+    ],
+    "description": "Join our human resources team as an HR intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-17",
+    "applyLink": "https://forms.google.com/voc-opportunity-092",
+    "status": "Closed"
+  },
+  {
+    "id": 93,
+    "title": "Android Developer Intern",
+    "type": "Internship",
+    "department": "Mobile Development",
+    "location": "Indore",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Android Studio",
+      "Firebase"
+    ],
+    "description": "Join our mobile development team as an Android developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-18",
+    "applyLink": "https://forms.google.com/voc-opportunity-093",
+    "status": "Active"
+  },
+  {
+    "id": 94,
+    "title": "DevOps Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Indore",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "AWS",
+      "Docker",
+      "Git",
+      "CI/CD",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a DevOps engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-19",
+    "applyLink": "https://forms.google.com/voc-opportunity-094",
+    "status": "Active"
+  },
+  {
+    "id": 95,
+    "title": "React Developer Intern",
+    "type": "Internship",
+    "department": "Development",
+    "location": "Bhopal",
+    "mode": "Hybrid",
+    "duration": "Full Time",
+    "skills": [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "description": "Join our development team as a React developer intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-20",
+    "applyLink": "https://forms.google.com/voc-opportunity-095",
+    "status": "Active"
+  },
+  {
+    "id": 96,
+    "title": "Machine Learning Intern",
+    "type": "Internship",
+    "department": "Data Science",
+    "location": "Bhopal",
+    "mode": "On-site",
+    "duration": "Contract",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "description": "Join our data science team as a machine learning intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-21",
+    "applyLink": "https://forms.google.com/voc-opportunity-096",
+    "status": "Active"
+  },
+  {
+    "id": 97,
+    "title": "Technical Content Intern",
+    "type": "Internship",
+    "department": "Content",
+    "location": "Delhi",
+    "mode": "Remote",
+    "duration": "1 Month",
+    "skills": [
+      "Technical Writing",
+      "Research",
+      "SEO"
+    ],
+    "description": "Join our content team as a technical content intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-22",
+    "applyLink": "https://forms.google.com/voc-opportunity-097",
+    "status": "Active"
+  },
+  {
+    "id": 98,
+    "title": "Software Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Delhi",
+    "mode": "Hybrid",
+    "duration": "2 Months",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "Git",
+      "APIs"
+    ],
+    "description": "Join our engineering team as a software engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-23",
+    "applyLink": "https://forms.google.com/voc-opportunity-098",
+    "status": "Active"
+  },
+  {
+    "id": 99,
+    "title": "Cloud Engineer",
+    "type": "Job",
+    "department": "Engineering",
+    "location": "Pune",
+    "mode": "On-site",
+    "duration": "3 Months",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Linux"
+    ],
+    "description": "Join our engineering team as a cloud engineer and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-24",
+    "applyLink": "https://forms.google.com/voc-opportunity-099",
+    "status": "Closed"
+  },
+  {
+    "id": 100,
+    "title": "Cybersecurity Intern",
+    "type": "Internship",
+    "department": "Security",
+    "location": "Pune",
+    "mode": "Remote",
+    "duration": "6 Months",
+    "skills": [
+      "Network Security",
+      "Linux",
+      "Python",
+      "Cybersecurity"
+    ],
+    "description": "Join our security team as a cybersecurity intern and gain practical experience while contributing to real-world projects.",
+    "deadline": "2026-09-25",
+    "applyLink": "https://forms.google.com/voc-opportunity-100",
+    "status": "Active"
+  }
+]
